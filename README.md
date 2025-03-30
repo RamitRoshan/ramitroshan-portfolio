@@ -18,3 +18,10 @@ If you are developing a production application, we recommend using TypeScript an
 ##  import emailjs from "@emailjs/browser";
 
 -Link[(https://dashboard.emailjs.com/admin/templates/f6q6j7a)]
+
+
+## if you again have to update the github follow this command :
+- git add .
+- git commit -m "Updated portfolio with WhatsApp icon"
+- git pull origin main --rebase
+- git push origin main
