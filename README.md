@@ -23,5 +23,4 @@ If you are developing a production application, we recommend using TypeScript an
 ## if you again have to update the github follow this command :
 - git add .
 - git commit -m "Updated portfolio with WhatsApp icon"
-- git pull origin main --rebase
-- git push origin main
+- git push 
