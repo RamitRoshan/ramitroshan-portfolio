@@ -16,3 +16,5 @@ If you are developing a production application, we recommend using TypeScript an
 ## import { Github, Linkedin, Mail } from "lucide-react";
 
 ##  import emailjs from "@emailjs/browser";
+
+-Link[(https://dashboard.emailjs.com/admin/templates/f6q6j7a)]
