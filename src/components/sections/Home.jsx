@@ -1,5 +1,5 @@
 import { RevealOnScroll } from "../RevealOnScroll";
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail, MessageCircle } from "lucide-react";
 export const Home = () => {
     return (
         <section 
@@ -63,6 +63,16 @@ export const Home = () => {
                     className="text-gray-400 hover:text-white transition"
                     >
                         <Mail size={32} />
+                    </a>
+
+                     {/* WhatsApp */}
+                     <a 
+                    href="https://wa.me/919798810046"
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-gray-400 hover:text-white transition"
+                    >
+                        <MessageCircle size={32} />
                     </a>
 
                 </div>
