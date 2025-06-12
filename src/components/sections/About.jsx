@@ -12,7 +12,7 @@ export const About = () => {
     "Bootstrap",
   ];
 
-  const backendSkills = ["Node.js", "Express.js", "Java", "PHP" ,"REST API", "MYSQL","Firebase", "MongoDB"];
+  const backendSkills = ["Node.js", "Express.js", "Java", "PHP" ,"REST API", "MYSQL","Firebase", "MongoDB", "Supabase"];
 
   const toolsAndPlatforms = ["Git","GitHub","Postman", "HOPPSCOTCH","Vercel","Netlify","AWS"];
 
