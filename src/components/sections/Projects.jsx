@@ -224,8 +224,6 @@ import { useState } from "react";
 //   );
 // };
 
-
-
 export const Projects = () => {
   const [showAll, setShowAll] = useState(false);
 
@@ -259,6 +257,12 @@ export const Projects = () => {
       description: "A powerful password generator that allows users to create secure and customizable passwords based on selected criteria with real-time notifications.",
       tech: ["React.js", "React Toastify", "CSS"],
       link: "https://password-generator-app-ten-rho.vercel.app/",
+    },
+    {
+      title:"Postly",
+      description: "A simple and modern content-sharing platform that lets users post ideas, links, and discussions, powered by Supabase and GitHub authentication.",
+      tech: ["React.js", "Supabase", "Redux", "TypeScript", "Tailwind CSS"],
+      link: "#",
     },
     // Add more projects here as needed
   ];
