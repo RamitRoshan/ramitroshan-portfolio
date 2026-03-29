@@ -8,13 +8,41 @@ export const About = () => {
     "TypeScript",
     "React.js",
     "Redux",
+    "Zustand",
+    "Next.js",
     "Tailwind CSS",
-    "Bootstrap",
+    "Material UI",
+    "DaisyUI",
+    "Responsive Design",
+    "Jest (Unit Testing)"
   ];
 
-  const backendSkills = ["Node.js", "Express.js", "Java", "PHP" ,"REST API", "MYSQL","Firebase", "MongoDB", "Supabase"];
+  const backendSkills = [
+  "Node.js",
+  "Express.js",
+  "Java",
+  "RESTful API Development",
+  "Authentication (JWT, bcrypt)",
+  "Middleware",
+  "API Validation (Joi)",
+  "MVC Architecture",
 
-  const toolsAndPlatforms = ["Git","GitHub","Postman", "HOPPSCOTCH","Vercel","Netlify","AWS"];
+  // Databases & ORMs/ODMs
+  "MySQL",
+  "MongoDB",
+  "Mongoose",
+  "Supabase"
+  ];
+
+ 
+  const toolsAndPlatforms = [
+  "Git & GitHub",
+  "AWS",
+  "Render",
+  "Vercel / Netlify", 
+  "Postman / Hoppscotch", 
+  "CI/CD (Basic)"
+  ];
 
   return (
     <section
