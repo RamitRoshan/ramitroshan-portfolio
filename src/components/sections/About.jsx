@@ -126,13 +126,13 @@ export const About = () => {
                 
                 <li>CGPA: 7.22</li>
                 <li>
-                  Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Web Development, Object-Oriented Programming, Operating Systems.
+                  Relevant Coursework: Data Structures & Algorithms, DBMS, Web Development, OOPS, Operating Systems, Computer Network.
                 </li>
 
-                <strong> Frontend Development </strong> - Namaste Dev by Akshay Saini
+                {/* <strong> Frontend Development </strong> - Namaste Dev by Akshay Saini
                 <li>
                   Relevant Coursework: Namaste JavaScript & Namaste React.js
-                </li>
+                </li> */}
               </ul>
             </div>
             <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
